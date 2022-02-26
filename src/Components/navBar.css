@@ -1,0 +1,15 @@
+.nav-class{
+    display: flex;
+    justify-content: space-between;
+}
+.ul{
+    display: flex;
+    justify-content: space-evenly;
+    width: 35%;
+}
+.nav-class>h2{
+    margin-left: 30px;
+}
+.navBarDiv{
+    padding: 5px;
+}

@@ -1,0 +1,12 @@
+si
+ei
+
+state=> currPage: 1, limit: 4
+
+total no. of movies: 12
+
+1: 0-2        si = (currPage-1) * limit          ei = si+limit
+2: 3-5
+3: 6-8
+
+
